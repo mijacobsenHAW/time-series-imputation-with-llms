@@ -4,9 +4,9 @@ This project comprises the code for the Master's thesis
 which was written for the final examination of the Master of Science 
 in Informatics at the Hamburg University of Applied Sciences.
 
-The abstract of the master thesis is as follows (not final):
+Short Summary of the Master's thesis:
 
-*The imputation of time series is an important task for downstream time series tasks and
+The imputation of time series is an important task for downstream time series tasks and
 therefore has a direct influence on the methods used. The advanced methods for imputation
 use deep learning methods and transformer architectures, which are particularly
 suitable for processing sequential data. The significant successes of the transformer architecture
@@ -20,7 +20,9 @@ using PEFT methods. The results of the experiments show that smaller language mo
 which were trained using a denoising autoencoding approach, can produce equally
 good results as large models. This means that, in addition to the number of optimisable
 parameters, the type of training is also decisive for the success of the imputation
-performance.*
+performance. 
+
+For more details see the master's thesis document (see contact information).
 
 See the evaluation notebook for details on the experiments and results.
 
